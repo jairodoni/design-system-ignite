@@ -1,3 +1,3 @@
-## Design Sistem Ignite
+## Design System Ignite
 
 > ⚠️ Em desenvolvimento...
