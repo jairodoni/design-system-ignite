@@ -28,10 +28,21 @@ const config: StorybookConfig = {
       <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
       <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap" rel="stylesheet" />
   `,
-
   docs: {
     autodocs: true,
   },
+  core: {
+    builder: "@storybook/builder-vite"
+  },
+  features: {
+    storyStoreV7: true
+  },
+  viteFinal: (config, {configType}) => {
+    if (configType === 'PRODUCTION') {
+      config.base = 'design-system-ignite'
+    }
+    return config
+  }
 };
 
 export default config;
