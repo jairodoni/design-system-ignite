@@ -1,22 +1,22 @@
 {
-  "name": "@ignite-ui/docs",
-  "version": "1.0.2",
+  "name": "@donecode-ignite-ui/docs",
+  "version": "1.0.0",
   "description": "",
   "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "storybook dev -p 6006",
     "deploy-storybook": "storybook-to-ghpages",
-    "build": "storybook build && touch ./storybook-static/.nojekyll"
+    "build": "storybook build"
   },
   "keywords": [],
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "@ignite-ui/eslint-config": "*",
-    "@ignite-ui/react": "*",
-    "@ignite-ui/tokens": "*",
-    "@ignite-ui/ts-config": "*",
+    "@donecode-ignite-ui/eslint-config": "*",
+    "@donecode-ignite-ui/react": "*",
+    "@donecode-ignite-ui/tokens": "*",
+    "@donecode-ignite-ui/ts-config": "*",
     "@storybook/addon-a11y": "^7.4.5",
     "phosphor-react": "^1.4.1",
     "polished": "^4.2.2",
