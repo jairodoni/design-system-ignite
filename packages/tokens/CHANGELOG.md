@@ -1,5 +1,11 @@
 # @donecode-ignite-ui/tokens
 
+## 2.1.1
+
+### Patch Changes
+
+- f1218d5: Test CI/CD
+
 ## 2.1.0
 
 ### Minor Changes
