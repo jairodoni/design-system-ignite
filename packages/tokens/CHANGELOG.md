@@ -1,5 +1,11 @@
 # @donecode-ignite-ui/tokens
 
+## 2.1.2
+
+### Patch Changes
+
+- Add readme
+
 ## 2.1.1
 
 ### Patch Changes

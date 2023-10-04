@@ -1,5 +1,11 @@
 # @donecode-ignite-ui/react
 
+## 3.0.2
+
+### Patch Changes
+
+- Add readme
+
 ## 3.0.1
 
 ### Patch Changes
