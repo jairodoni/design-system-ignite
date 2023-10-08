@@ -1,5 +1,11 @@
 # @donecode-ignite-ui/react
 
+## 3.1.2
+
+### Patch Changes
+
+- Little adjustment in Heading
+
 ## 3.1.1
 
 ### Patch Changes
