@@ -3,7 +3,7 @@ import { Button, Tooltip, TooltipProps } from '@donecode-ignite-ui/react'
 import { Plus } from 'phosphor-react'
 
 export default {
-  title: 'Form/Tooltip',
+  title: 'Utils/Tooltip',
   component: Tooltip,
   args: {
     children: (

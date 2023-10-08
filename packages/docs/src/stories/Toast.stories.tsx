@@ -34,7 +34,7 @@ const Toast = (props: ToastProps) => {
 }
 
 export default {
-  title: 'Form/Toast',
+  title: 'Utils/Toast',
   component: Toast,
   args: {
     title: 'Agendamento realizado',

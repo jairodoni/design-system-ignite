@@ -1,5 +1,11 @@
 # @donecode-ignite-ui/react
 
+## 3.1.1
+
+### Patch Changes
+
+- Adjustments in styles and typescript
+
 ## 3.1.0
 
 ### Minor Changes
