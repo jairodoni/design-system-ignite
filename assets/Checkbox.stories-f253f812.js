@@ -1,0 +1,6 @@
+import{j as o}from"./jsx-runtime-0741ab7f.js";import{C as x,b,c as f}from"./index-e7f02ac9.js";import"./index-902e4630.js";import"./_commonjsHelpers-725317a4.js";import"./extends-98964cd2.js";const k={title:"Form/Checkbox",component:x,args:{},decorators:[u=>o.jsxs(b,{as:"label",css:{display:"flex",flexDirection:"column",gap:"$2"},children:[o.jsx(f,{size:"sm",children:"Accept terms of use"}),u()]})]},r={},e={},s={args:{disabled:!0}};var a,t,c;r.parameters={...r.parameters,docs:{...(a=r.parameters)==null?void 0:a.docs,source:{originalSource:"{}",...(c=(t=r.parameters)==null?void 0:t.docs)==null?void 0:c.source}}};var i,m,p;e.parameters={...e.parameters,docs:{...(i=e.parameters)==null?void 0:i.docs,source:{originalSource:"{}",...(p=(m=e.parameters)==null?void 0:m.docs)==null?void 0:p.source}}};var d,n,l;s.parameters={...s.parameters,docs:{...(d=s.parameters)==null?void 0:d.docs,source:{originalSource:`{
+  args: {
+    disabled: true
+  }
+}`,...(l=(n=s.parameters)==null?void 0:n.docs)==null?void 0:l.source}}};const y=["Primary","WithPrefix","Disabled"];export{s as Disabled,r as Primary,e as WithPrefix,y as __namedExportsOrder,k as default};
+//# sourceMappingURL=Checkbox.stories-f253f812.js.map
