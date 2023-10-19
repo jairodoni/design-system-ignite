@@ -1,5 +1,11 @@
 # @donecode-ignite-ui/ts-config
 
+## 2.0.2
+
+### Patch Changes
+
+- Update readme
+
 ## 2.0.1
 
 ### Patch Changes

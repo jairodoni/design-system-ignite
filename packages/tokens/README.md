@@ -19,9 +19,9 @@ Você pode visualizar o layout do projeto no formato através [desse link](https
 ## **🚀 Instalação**
 
 ```sh
-$ npm i @donecode-ignite-ui/tokens && npm i @donecode-ignite-ui/react  
+$ npm i @donecode-ignite-ui/tokens
 
   ou
 
-$ yarn add @donecode-ignite-ui/tokens && yarn add @donecode-ignite-ui/react
+$ yarn add @donecode-ignite-ui/tokens
 ```
